@@ -21,3 +21,7 @@
     margin-bottom: 0;
     padding: 8px;
 }
+h1 {
+    background-color: red;
+    width: 80%;
+}
